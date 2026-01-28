@@ -46,7 +46,7 @@ README.md
 
 ---
 
-###⚠️ Security & Notes
+### ⚠️ Security & Notes
 
 The repository is intended for portfolio/demo purposes.
 
@@ -54,13 +54,13 @@ API keys and sensitive files are intentionally ignored (lib/api/).
 
 ---
 
-###📜 License
+### 📜 License
 
 This project is for personal use and demonstration only.
 Do not copy, redistribute, or claim as your own without permission.
 
 ---
 
-##👤 Author
+## 👤 Author
 
-###Jaweria Dastageer
+### Jaweria Dastageer
